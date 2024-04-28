@@ -1,0 +1,15 @@
+.content {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+
+button {
+    border: none;
+    padding: 5px;
+    border-radius: 6px;
+    background-color: chartreuse;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
